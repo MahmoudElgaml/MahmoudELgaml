@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Mobile app Developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
-- 🔭 I’m currently working on private freelance project for Mostaql
+- 🔭 I’m currently work as flutter developer at sadeem tech
 
-- 🌱 I’m currently learning **Advance Topic in Flutter**
+- 🌱 I’m currently learning **Android Native **
 
 - 📫 How to reach me **mahmoudelgaml991@gmail.com**
 
