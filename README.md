@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Android Native **
 
 - 📫 How to reach me **mahmoudelgaml991@gmail.com**
+  
+- Note im currently work with bitBucket so you find im not active here
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
